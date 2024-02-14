@@ -1,0 +1,22 @@
+1697025201016	geckodriver	INFO	Listening on 127.0.0.1:57279
+1697025204106	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57280" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NATALI~1.SIL\\AppData\\Local\\Temp\\rust_mozprofile0XYpEx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697025204532	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697025204655	Marionette	INFO	Listening on port 57292
+WebDriver BiDi listening on ws://127.0.0.1:57280
+Read port: 57292
+Read port: 57292
+1697025206979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57280/devtools/browser/22a63593-288d-4733-9220-947197a16e78
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 633))
+JavaScript warning: https://www.amazon.com.br/, line 1867: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.br/Livros/b/?ie=UTF8&node=6740748011&ref_=nav_cs_books, line 12155: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1697025219205	Marionette	INFO	Stopped listening on port 57292
+JavaScript warning: https://www.amazon.com.br/Livros/b/?ie=UTF8&node=6740748011&ref_=nav_cs_books, line 12062: Script terminated by timeout at:
+timeout/</<@https://www.amazon.com.br/Livros/b/?ie=UTF8&node=6740748011&ref_=nav_cs_books:12062:101
+
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.sys.mjs, line 720: TypeError: this.tablesData[table] is undefined
